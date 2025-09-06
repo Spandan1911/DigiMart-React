@@ -26,8 +26,8 @@ DigiMart is a modern e-commerce web application built with React and Tailwind CS
 
 🔑 Environment Variables
 
-To run this project, create a .env.local file in the root directory and add your publication key:
-" VITE_PUBLICATION_KEY=your_publication_key_here "
+ To run this project, create a .env.local file in the root directory and add your publication key:
+-  VITE_PUBLICATION_KEY=your_publication_key_here "
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🤝 Contributing
