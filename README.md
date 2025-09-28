@@ -2,7 +2,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📌 Introduction
 
-DigiMart is a modern e-commerce web application built with React and Tailwind CSS. It provides a fast, responsive, and user-friendly shopping experience. Users can browse products across categories like laptops, mobiles, and headphones, manage their cart, and enjoy a smooth, modern UI/UX.
+DigiMart is a modern e-commerce web application built with React and Tailwind CSS. It provides a fast, responsive, and user-friendly shopping experience. Users can browse products across categories like laptops, mobiles, and headphones, manage their cart, and enjoy a smooth, modern UI/UX
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🚀 Features :-
