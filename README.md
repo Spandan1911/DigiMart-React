@@ -20,7 +20,7 @@ DigiMart is a modern e-commerce web application built with React and Tailwind CS
 1) Frontend: React.js, Tailwind CSS
 2) State Management: React Hooks / Context API
 3) Icons & UI: Lucide Icons / ShadCN UI (optional)
-4) Deployment: Vercel / Netlify.
+4) Deployment: Vercel / Netlify
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
